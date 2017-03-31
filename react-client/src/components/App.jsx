@@ -260,7 +260,7 @@ class App extends React.Component {
             </div>
           </div>
         </div>
-        <Router>
+        <Router>     
           <div>        
             <ul>
               <li><Link to='/'>Home</Link></li>
